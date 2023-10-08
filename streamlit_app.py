@@ -1,2 +1,2 @@
 import streamlit
-stramlit.title('My name is Ankul and file streamlit_app.py')
+streamlit.title('My name is Ankul and file streamlit_app.py')
